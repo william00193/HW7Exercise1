@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.core.util.Preconditions.checkNotNull
 import androidx.core.widget.doOnTextChanged
 import androidx.fragment.app.Fragment
 import com.example.hw7exercise1.databinding.FragmentCrimeDetailBinding
