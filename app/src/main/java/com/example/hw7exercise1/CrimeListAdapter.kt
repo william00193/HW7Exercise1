@@ -21,10 +21,6 @@ class CrimeHolder(
         binding.crimeTitle.text = crime.title
 
 
-//Date formatting section
-
-//Old date format
-//binding.crimeDate.text = crime.date.toString()
 
 //New formatted date for each entry
 //Documentation: StackOverFlow -- How to use "android.text.format.DateFormat" with Kotlin?
